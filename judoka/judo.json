@@ -1,0 +1,407 @@
+[
+  {
+    "name": "O-soto-otoshi",
+    "belt": "yellow",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "O-uchi-gari",
+    "belt": "yellow",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "O-goshi",
+    "belt": "yellow",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Mune-gatame",
+    "belt": "yellow",
+    "type": "Osaekomi-Waza"
+  },
+  {
+    "name": "Kuzure-kesa-gatame",
+    "belt": "yellow",
+    "type": "Osaekomi-Waza"
+  },
+  {
+    "name": "Ko-soto-gari",
+    "belt": "yellow",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Ko-uchi-gari",
+    "belt": "yellow",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Hiza-guruma",
+    "belt": "yellow",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Eri-seoi-nage",
+    "belt": "yellow",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Koshi-guruma",
+    "belt": "yellow",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Kami-shiho-gatame",
+    "belt": "yellow",
+    "type": "Osaekomi-Waza"
+  },
+  {
+    "name": "Tate-shiho-gatame",
+    "belt": "yellow",
+    "type": "Osaekomi-Waza"
+  },
+  {
+    "name": "De-ashi-harai",
+    "belt": "orange",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Ko-soto-gake",
+    "belt": "orange",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Ippon-seoi-nage",
+    "belt": "orange",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Morote-seoi-nage",
+    "belt": "orange",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Tsuri-komi-goshi",
+    "belt": "orange",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Kubi-nage",
+    "belt": "orange",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Ushiro-kesa-gatame",
+    "belt": "orange",
+    "type": "Osaekomi-Waza"
+  },
+  {
+    "name": "Kuzure-yoko-shiho-gatame",
+    "belt": "orange",
+    "type": "Osaekomi-Waza"
+  },
+  {
+    "name": "O-soto-gari",
+    "belt": "orange",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Tsuri-goshi",
+    "belt": "orange",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Tai-otoshi",
+    "belt": "orange",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Uchi-mata",
+    "belt": "orange",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Harai-goshi",
+    "belt": "orange",
+    "type": "Nage-Waza"
+  },
+  {
+    "name": "Yoko-shiho-gatame",
+    "belt": "orange",
+    "type": "Osaekomi-Waza"
+  },
+  {
+    "name": "Kesa-gatame",
+    "belt": "orange",
+    "type": "Osaekomi-Waza"
+  },
+  {
+    "name": "Gyaku-juji-jime",
+    "belt": "orange",
+    "type": "Shime-Waza"
+  },
+  {
+    "name": "Nami-juji-jime",
+    "belt": "orange",
+    "type": "Shime-Waza"
+  },
+  {
+    "name": "Kata-juji-jime",
+    "belt": "orange",
+    "type": "Shime-Waza"
+  },
+  {
+    "name": "Ude-garami",
+    "belt": "orange",
+    "type": "Kansetsu-Waza"
+  },
+  {
+    "name": "Juji-gatame",
+    "belt": "orange",
+    "type": "Kansetsu-Waza"
+  },
+  {
+    "name": "Sasae-tsuri-komi-ashi",
+    "belt": "green",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Sode-tsuri-komi-goshi",
+    "belt": "green",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Uki-goshi",
+    "belt": "green",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Seoi-otoshi",
+    "belt": "green",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Okuri-ashi-harai(barai)",
+    "belt": "green",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Kuzure-kami-shiho-gatame",
+    "belt": "green",
+    "type": "Osaekomi-waza"
+  },
+  {
+    "name": "Hadaka-jime",
+    "belt": "green",
+    "type": "Shime-waza"
+  },
+  {
+    "name": "Okuri-eri-jime",
+    "belt": "green",
+    "type": "Shime-waza"
+  },
+  {
+    "name": "Ude-gatame",
+    "belt": "green",
+    "type": "Kansetsu-waza"
+  },
+  {
+    "name": "Harai-tsuri-komi-ashi",
+    "belt": "green",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Tani-otoshi",
+    "belt": "green",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Yoko-sumi-gaeshi",
+    "belt": "green",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Tomoe-nage",
+    "belt": "green",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Yoko-tomoe-nage",
+    "belt": "green",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Kuzure-tate-shiho-gatame",
+    "belt": "green",
+    "type": "Osaekomi-waza"
+  },
+  {
+    "name": "Kata-ha-jime",
+    "belt": "green",
+    "type": "Shime-waza"
+  },
+  {
+    "name": "Ryote-jime",
+    "belt": "green",
+    "type": "Shime-waza"
+  },
+  {
+    "name": "Kesa-garami",
+    "belt": "green",
+    "type": "Kansetsu-waza"
+  },
+  {
+    "name": "Ude-hishigi-ashi-gatame",
+    "belt": "green",
+    "type": "Kansetsu-waza"
+  },
+  {
+    "name": "O-guruma",
+    "belt": "blue",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Ashi-guruma",
+    "belt": "blue",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Sumi-gaeshi",
+    "belt": "blue",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Uki-waza",
+    "belt": "blue",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Yoko-otoshi",
+    "belt": "blue",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Ushiro-goshi",
+    "belt": "blue",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Soto-makikomi",
+    "belt": "blue",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Makura-kesa-gatame",
+    "belt": "blue",
+    "type": "Osaekomi-waza"
+  },
+  {
+    "name": "Sankaku-gatame",
+    "belt": "blue",
+    "type": "Osaekomi-waza"
+  },
+  {
+    "name": "Kata-te-jime",
+    "belt": "blue",
+    "type": "Shime-waza"
+  },
+  {
+    "name": "Sankaku-jime",
+    "belt": "blue",
+    "type": "Osaekomi-waza"
+  },
+  {
+    "name": "Hara-gatame",
+    "belt": "blue",
+    "type": "Kansetsu-waza"
+  },
+  {
+    "name": "Waki-gatame",
+    "belt": "blue",
+    "type": "Kansetsu-waza"
+  },
+  {
+    "name": "Hane-goshi",
+    "belt": "blue",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Tsubame-geashi",
+    "belt": "blue",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Ura-nage",
+    "belt": "blue",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Yoko-guruma",
+    "belt": "blue",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Yoko-gake",
+    "belt": "blue",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Kata-gatame",
+    "belt": "blue",
+    "type": "Osaekomi-waza"
+  },
+  {
+    "name": "Uki-gatame",
+    "belt": "blue",
+    "type": "Osaekomi-waza"
+  },
+  {
+    "name": "Sode-guruma-jime",
+    "belt": "blue",
+    "type": "Shime-waza"
+  },
+  {
+    "name": "Tsukomi-jime",
+    "belt": "blue",
+    "type": "Shime-waza"
+  },
+  {
+    "name": "Kannuki-gatame",
+    "belt": "blue",
+    "type": "Kansetsu-waza"
+  },
+  {
+    "name": "Hiza-gatame",
+    "belt": "blue",
+    "type": "Kansetsu-waza"
+  },
+  {
+    "name": "Kata-guruma",
+    "belt": "brown",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Yoko-wakare",
+    "belt": "brown",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Sumi-otoshi",
+    "belt": "brown",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Uki-otoshi",
+    "belt": "brown",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "O-soto-guruma",
+    "belt": "brown",
+    "type": "Nage-waza"
+  },
+  {
+    "name": "Utsuri-gosh",
+    "belt": "brown",
+    "type": "Nage-waza"
+  }
+]

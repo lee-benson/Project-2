@@ -1,10 +1,10 @@
 {
   "rest-client.environmentVariables": {
     "local": {
-      "host": "http://localhost:3000",
+      "host": "http://localhost:3000"
     },
     "vercel": {
-      "host": "https://ga-vercel-demo.vercel.app",
+      "host": "https://asthtc.vercel.app"
     }
   }
 }
