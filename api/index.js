@@ -4,13 +4,7 @@ import lifecycle from './middleware/lifecycle.js'
 import Judo from '../judoka/model.js'
 
 const app = express()
-// import '../seed.js'
 
-// const todoSchema = new mongoose.Schema({
-//   text: String
-// })
-
-// const Todo = mongoose.model('Todo', todoSchema)
 
 app.use(lifecycle({
   async setup() {
@@ -25,15 +19,6 @@ app.use(lifecycle({
     await mongoose.disconnect()
   }
 }))
-
-// Feel free to use a router and move this elsewhere.
-// app.get('/api', async (req, res) => {
-//   await Todo.insertMany([{ text: (new Date()).toISOString() }])
-//   const todos = await Todo.find()
-
-//   console.log(process.env.DATABASE_URL)
-//   res.json({ message: 'Hello World', todos })
-// })
 
 
 app.get('/api', async (req, res) => {

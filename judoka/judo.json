@@ -2,406 +2,487 @@
   {
     "name": "O-soto-otoshi",
     "belt": "yellow",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/UWYHo4N.gif"
   },
   {
     "name": "O-uchi-gari",
     "belt": "yellow",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/IuGV2Bs.gif"
   },
   {
     "name": "O-goshi",
     "belt": "yellow",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/spCb2Wl.gif"
   },
   {
     "name": "Mune-gatame",
     "belt": "yellow",
-    "type": "Osaekomi-Waza"
+    "type": "Osaekomi-Waza",
+    "img": "https://i.imgur.com/FxZzJmN.jpg"
   },
   {
     "name": "Kuzure-kesa-gatame",
     "belt": "yellow",
-    "type": "Osaekomi-Waza"
+    "type": "Osaekomi-Waza",
+    "img": "https://i.imgur.com/fO9dC1O.gif"
   },
   {
     "name": "Ko-soto-gari",
     "belt": "yellow",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/QApf78k.gif"
   },
   {
     "name": "Ko-uchi-gari",
     "belt": "yellow",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/9Lujohw.gif"
   },
   {
     "name": "Hiza-guruma",
     "belt": "yellow",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/NNqFGwZ.gif"
   },
   {
     "name": "Eri-seoi-nage",
     "belt": "yellow",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/vW5n1c3.gif"
   },
   {
     "name": "Koshi-guruma",
     "belt": "yellow",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/0ZsBKw2.gif"
   },
   {
     "name": "Kami-shiho-gatame",
     "belt": "yellow",
-    "type": "Osaekomi-Waza"
+    "type": "Osaekomi-Waza",
+    "img": "https://i.imgur.com/ZBWVvye.gif"
   },
   {
     "name": "Tate-shiho-gatame",
     "belt": "yellow",
-    "type": "Osaekomi-Waza"
+    "type": "Osaekomi-Waza",
+    "img": "https://i.imgur.com/y1CYQFF.gif"
   },
   {
     "name": "De-ashi-harai",
     "belt": "orange",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/gl8reuR.gif"
   },
   {
     "name": "Ko-soto-gake",
     "belt": "orange",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/1wZcMOg.gif"
   },
   {
     "name": "Ippon-seoi-nage",
     "belt": "orange",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/eHaxNco.gif"
   },
   {
     "name": "Morote-seoi-nage",
     "belt": "orange",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/UV0gKLD.gif"
   },
   {
     "name": "Tsuri-komi-goshi",
     "belt": "orange",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/APz5HJt.gif"
   },
   {
     "name": "Kubi-nage",
     "belt": "orange",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/oyagZIG.gif"
   },
   {
     "name": "Ushiro-kesa-gatame",
     "belt": "orange",
-    "type": "Osaekomi-Waza"
+    "type": "Osaekomi-Waza",
+    "img": "https://i.imgur.com/F3K9B1A.gif"
   },
   {
     "name": "Kuzure-yoko-shiho-gatame",
     "belt": "orange",
-    "type": "Osaekomi-Waza"
+    "type": "Osaekomi-Waza",
+    "img": "https://i.imgur.com/FnppbVi.gif"
   },
   {
     "name": "O-soto-gari",
     "belt": "orange",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/AoaC0sA.gif"
   },
   {
     "name": "Tsuri-goshi",
     "belt": "orange",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/pcf4HOq.gif"
   },
   {
     "name": "Tai-otoshi",
     "belt": "orange",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/naGYYQx.gif"
   },
   {
     "name": "Uchi-mata",
     "belt": "orange",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/ILOlI83.gif"
   },
   {
     "name": "Harai-goshi",
     "belt": "orange",
-    "type": "Nage-Waza"
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/uZDNVO7.gif"
   },
   {
     "name": "Yoko-shiho-gatame",
     "belt": "orange",
-    "type": "Osaekomi-Waza"
+    "type": "Osaekomi-Waza",
+    "img": "https://i.imgur.com/RJrBr8C.jpg"
   },
   {
     "name": "Kesa-gatame",
     "belt": "orange",
-    "type": "Osaekomi-Waza"
+    "type": "Osaekomi-Waza",
+    "img": "https://i.imgur.com/rYPjz8u.jpg"
   },
   {
     "name": "Gyaku-juji-jime",
     "belt": "orange",
-    "type": "Shime-Waza"
+    "type": "Shime-Waza",
+    "img": "https://i.imgur.com/UplgOTv.jpg"
   },
   {
     "name": "Nami-juji-jime",
     "belt": "orange",
-    "type": "Shime-Waza"
+    "type": "Shime-Waza",
+    "img": "https://i.imgur.com/2SliXl0.jpg"
   },
   {
     "name": "Kata-juji-jime",
     "belt": "orange",
-    "type": "Shime-Waza"
+    "type": "Shime-Waza",
+    "img": "https://i.imgur.com/dnqYDRD.png"
   },
   {
     "name": "Ude-garami",
     "belt": "orange",
-    "type": "Kansetsu-Waza"
+    "type": "Kansetsu-Waza",
+    "img": "https://i.imgur.com/Q541MSL.jpg"
   },
   {
     "name": "Juji-gatame",
     "belt": "orange",
-    "type": "Kansetsu-Waza"
+    "type": "Kansetsu-Waza",
+    "img": "https://i.imgur.com/aUDy9aY.gif"
   },
   {
     "name": "Sasae-tsuri-komi-ashi",
     "belt": "green",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/SYzYssv.gif"
   },
   {
     "name": "Sode-tsuri-komi-goshi",
     "belt": "green",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/0I4pDg2.gif"
   },
   {
     "name": "Uki-goshi",
     "belt": "green",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/fhp6wDT.gif"
   },
   {
     "name": "Seoi-otoshi",
     "belt": "green",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/MFEi6Cd.gif"
   },
   {
     "name": "Okuri-ashi-harai(barai)",
     "belt": "green",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/Zj4Duu1.gif"
   },
   {
     "name": "Kuzure-kami-shiho-gatame",
     "belt": "green",
-    "type": "Osaekomi-waza"
+    "type": "Osaekomi-waza",
+    "img": "https://i.imgur.com/tZDhhAX.jpg"
   },
   {
     "name": "Hadaka-jime",
     "belt": "green",
-    "type": "Shime-waza"
+    "type": "Shime-waza",
+    "img": "https://i.imgur.com/v6cq2Oy.png"
   },
   {
     "name": "Okuri-eri-jime",
     "belt": "green",
-    "type": "Shime-waza"
+    "type": "Shime-waza",
+    "img": "https://i.imgur.com/jE5izze.png"
   },
   {
     "name": "Ude-gatame",
     "belt": "green",
-    "type": "Kansetsu-waza"
+    "type": "Kansetsu-waza",
+    "img": "https://i.imgur.com/OMaLFUL.jpg"
   },
   {
     "name": "Harai-tsuri-komi-ashi",
     "belt": "green",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/4BAmrFb.gif"
   },
   {
     "name": "Tani-otoshi",
     "belt": "green",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/zfFMKCL.gif"
   },
   {
     "name": "Yoko-sumi-gaeshi",
     "belt": "green",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/7iBH6OF.gif"
   },
   {
     "name": "Tomoe-nage",
     "belt": "green",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/6B4EfIN.gif"
   },
   {
     "name": "Yoko-tomoe-nage",
     "belt": "green",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/DbeaA8K.gif"
   },
   {
     "name": "Kuzure-tate-shiho-gatame",
     "belt": "green",
-    "type": "Osaekomi-waza"
+    "type": "Osaekomi-waza",
+    "img": "https://i.imgur.com/uA3MKB7.gif"
   },
   {
     "name": "Kata-ha-jime",
     "belt": "green",
-    "type": "Shime-waza"
+    "type": "Shime-waza",
+    "img": "https://i.imgur.com/1I7pXmc.gif"
   },
   {
     "name": "Ryote-jime",
     "belt": "green",
-    "type": "Shime-waza"
+    "type": "Shime-waza",
+    "img": "https://i.imgur.com/F84jlQm.png"
   },
   {
     "name": "Kesa-garami",
     "belt": "green",
-    "type": "Kansetsu-waza"
+    "type": "Kansetsu-waza",
+    "img": "https://i.imgur.com/GLKFQwC.gif"
   },
   {
     "name": "Ude-hishigi-ashi-gatame",
     "belt": "green",
-    "type": "Kansetsu-waza"
+    "type": "Kansetsu-waza",
+    "img": "https://i.imgur.com/3XBBMoj.gif"
   },
   {
     "name": "O-guruma",
     "belt": "blue",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/hbsjuBD.gif"
   },
   {
     "name": "Ashi-guruma",
     "belt": "blue",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/XCfxb6L.gif"
   },
   {
     "name": "Sumi-gaeshi",
     "belt": "blue",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/zuKS5gK.gif"
   },
   {
     "name": "Uki-waza",
     "belt": "blue",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/bg8MSXr.gif"
   },
   {
     "name": "Yoko-otoshi",
     "belt": "blue",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/aq7eBeE.gif"
   },
   {
     "name": "Ushiro-goshi",
     "belt": "blue",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/KpvJMg3.gif"
   },
   {
     "name": "Soto-makikomi",
     "belt": "blue",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/JpARWmX.gif"
   },
   {
     "name": "Makura-kesa-gatame",
     "belt": "blue",
-    "type": "Osaekomi-waza"
+    "type": "Osaekomi-waza",
+    "img": "https://i.imgur.com/vH1yAyP.gif"
   },
   {
     "name": "Sankaku-gatame",
     "belt": "blue",
-    "type": "Osaekomi-waza"
+    "type": "Osaekomi-waza",
+    "img": "https://i.imgur.com/gNVIyTA.jpg"
   },
   {
     "name": "Kata-te-jime",
     "belt": "blue",
-    "type": "Shime-waza"
+    "type": "Shime-waza",
+    "img": "https://i.imgur.com/HgUftOz.jpg"
   },
   {
     "name": "Sankaku-jime",
     "belt": "blue",
-    "type": "Osaekomi-waza"
+    "type": "Osaekomi-waza",
+    "img": "https://i.imgur.com/48bCxRx.png"
   },
   {
     "name": "Hara-gatame",
     "belt": "blue",
-    "type": "Kansetsu-waza"
+    "type": "Kansetsu-waza",
+    "img": "https://i.imgur.com/3EKAD5R.jpg"
   },
   {
     "name": "Waki-gatame",
     "belt": "blue",
-    "type": "Kansetsu-waza"
+    "type": "Kansetsu-waza",
+    "img": "https://i.imgur.com/LgnXABf.png"
   },
   {
     "name": "Hane-goshi",
     "belt": "blue",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/p10EeKY.gif"
   },
   {
     "name": "Tsubame-geashi",
     "belt": "blue",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/ttk05Fm.jpg"
   },
   {
     "name": "Ura-nage",
     "belt": "blue",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/oVhqhuJ.gif"
   },
   {
     "name": "Yoko-guruma",
     "belt": "blue",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/xy4nrmx.gif"
   },
   {
     "name": "Yoko-gake",
     "belt": "blue",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/DOZu47Z.gif"
   },
   {
     "name": "Kata-gatame",
     "belt": "blue",
-    "type": "Osaekomi-waza"
+    "type": "Osaekomi-waza",
+    "img": "https://i.imgur.com/sITcCZm.gif"
   },
   {
     "name": "Uki-gatame",
     "belt": "blue",
-    "type": "Osaekomi-waza"
+    "type": "Osaekomi-waza",
+    "img": "https://i.imgur.com/tBuiW2Z.gif"
   },
   {
     "name": "Sode-guruma-jime",
     "belt": "blue",
-    "type": "Shime-waza"
+    "type": "Shime-waza",
+    "img": "https://i.imgur.com/NmTNgpM.gif"
   },
   {
     "name": "Tsukomi-jime",
     "belt": "blue",
-    "type": "Shime-waza"
+    "type": "Shime-waza",
+    "img": "https://i.imgur.com/mTfWnXM.png"
   },
   {
     "name": "Kannuki-gatame",
     "belt": "blue",
-    "type": "Kansetsu-waza"
+    "type": "Kansetsu-waza",
+    "img": "https://i.imgur.com/ciELEAe.png"
   },
   {
     "name": "Hiza-gatame",
     "belt": "blue",
-    "type": "Kansetsu-waza"
+    "type": "Kansetsu-waza",
+    "img": "https://i.imgur.com/xEOQSr4.jpg"
   },
   {
     "name": "Kata-guruma",
     "belt": "brown",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/2cMIrIn.gif"
   },
   {
     "name": "Yoko-wakare",
     "belt": "brown",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/qSJRRBs.gif"
   },
   {
     "name": "Sumi-otoshi",
     "belt": "brown",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/RL2fVjK.gif"
   },
   {
     "name": "Uki-otoshi",
     "belt": "brown",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/9sn7onU.gif"
   },
   {
     "name": "O-soto-guruma",
     "belt": "brown",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/xUUbGdx.gif"
   },
   {
     "name": "Utsuri-gosh",
     "belt": "brown",
-    "type": "Nage-waza"
+    "type": "Nage-waza",
+    "img": "https://i.imgur.com/RUnCFRC.gif"
   }
 ]

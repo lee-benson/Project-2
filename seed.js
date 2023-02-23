@@ -6,3 +6,5 @@ mongoose.connect('mongodb://localhost/test')
 await Judo.deleteMany()
 await Judo.insertMany(judoTechniques)
 await mongoose.disconnect()
+
+
