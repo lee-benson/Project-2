@@ -12,6 +12,7 @@
 @type = {{SHOW_INDEX.response.body.0.type}}
 @name = {{SHOW_INDEX.response.body.0.name}}
 
+
 # @name SHOW_INDEX
 GET {{baseUrl}}
 ###
@@ -21,7 +22,7 @@ GET {{baseUrl}}/{{belt}}
 ###
 
 # @name SHOW_BELT_EXAMPLE
-GET {{baseUrl}}/green
+GET {{baseUrl}}/yellow
 ###
 
 # @name SHOW_TYPE
@@ -38,4 +39,32 @@ GET {{baseUrl}}/name/{{name}}
 
 # @name SHOW_NAME_EXAMPLE
 GET {{baseUrl}}/name/Uchi-mata
+###
+
+# @name CREATE_JUDO
+POST {{baseUrl}}
+Content-Type: application/json
+
+  {
+    "name": "O-uchi-gari",
+    "belt": "yellow",
+    "type": "Nage-Waza",
+    "img": "https://i.imgur.com/IuGV2Bs.gif"
+  }
+###
+
+# @name UPDATE_JUDO_EXAMPLE
+PATCH {{baseUrl}}/O-uchi-gari
+Content-Type: application/json
+
+{
+  "name": "O-soto-otoshi",
+  "belt": "yellow",
+  "type": "Nage-Waza",
+  "img": "https://i.imgur.com/UWYHo4N.gif"
+}
+###
+
+# @name DELETE_JUDO_EXAMPLE
+DELETE {{baseUrl}}/O-uchi-gari
 ###

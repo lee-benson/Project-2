@@ -58,3 +58,36 @@ export async function getName(req, res) {
     res.status(500).json({ error: error.message })
   }
 }
+
+export async function createJudo(req, res) {
+  try {
+    const judo = new Judo(req.body)
+    await judo.save()
+    res.status(201).json(judo)
+  } catch (error) {
+    console.error(error)
+    res.status(500).json({ error: error.message })
+  }
+}
+
+export async function updateJudo(req, res) {
+  try {
+    const { name } = req.params
+    const judo = await Judo.findOneAndUpdate({ name: name }, req.body)
+    res.status(201).json(judo)
+  } catch (error) {
+    console.error(error)
+    res.status(500).json({ error: error.message })
+  }
+}
+
+export async function deleteJudo(req, res) {
+  try {
+    const { name } = req.params
+    const judo = await Judo.findOneAndDelete({ name: name }, req.body)
+    res.status(201).json(judo)
+  } catch (error) {
+    console.error(error)
+    res.status(500).json({ error: error.message })
+  }
+}
