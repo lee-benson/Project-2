@@ -8,8 +8,34 @@
 # You'll need to switch to either `local` or `vercel` to get started.
 
 @baseUrl = {{host}}/api
+@belt = {{SHOW_INDEX.response.body.0.belt}}
+@type = {{SHOW_INDEX.response.body.0.type}}
+@name = {{SHOW_INDEX.response.body.0.name}}
 
+# @name SHOW_INDEX
 GET {{baseUrl}}
 ###
 
+# @name SHOW_BELT
+GET {{baseUrl}}/{{belt}}
+###
 
+# @name SHOW_BELT_EXAMPLE
+GET {{baseUrl}}/green
+###
+
+# @name SHOW_TYPE
+GET {{baseUrl}}/type/{{type}}
+###
+
+# @name SHOW_TYPE_EXAMPLE
+GET {{baseUrl}}/type/Nage-Waza
+###
+
+# @name SHOW_NAME
+GET {{baseUrl}}/name/{{name}}
+###
+
+# @name SHOW_NAME_EXAMPLE
+GET {{baseUrl}}/name/Uchi-mata
+###

@@ -2,9 +2,10 @@ import express from 'express'
 import mongoose from 'mongoose'
 import lifecycle from './middleware/lifecycle.js'
 import Judo from '../judoka/model.js'
+import router from '../judoka/router.js'
 
 const app = express()
-
+app.use(express.json())
 
 app.use(lifecycle({
   async setup() {
@@ -19,12 +20,8 @@ app.use(lifecycle({
     await mongoose.disconnect()
   }
 }))
+app.use('/api', router)
 
-
-app.get('/api', async (req, res) => {
-  const showJudo = await Judo.find()
-  res.json(showJudo)
-})
 
 // Don't use app.listen. Instead export app.
 export default app
