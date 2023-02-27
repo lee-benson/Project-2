@@ -1,6 +1,8 @@
 import mongoose from 'mongoose'
 import Judo from './model.js'
 
+
+// Get the entire index
 export async function getJudo(req, res) {
   try {
     const getJudo = await Judo.find({});
@@ -11,6 +13,8 @@ export async function getJudo(req, res) {
   }
 }
 
+
+// Get techniques based on belt
 export async function getBelt(req, res) {
   try {
     const belt = req.params.belt
@@ -27,6 +31,8 @@ export async function getBelt(req, res) {
   }
 }
 
+
+// Get techniques based on type
 export async function getType(req, res) {
   try {
     const type = req.params.type
@@ -43,6 +49,8 @@ export async function getType(req, res) {
   }
 }
 
+
+// Get techniques based on name
 export async function getName(req, res) {
   try {
     const name = req.params.name
@@ -59,6 +67,8 @@ export async function getName(req, res) {
   }
 }
 
+
+// Input techniques not in the index
 export async function createJudo(req, res) {
   try {
     const judo = new Judo(req.body)
@@ -70,6 +80,8 @@ export async function createJudo(req, res) {
   }
 }
 
+
+// Update technique based on name
 export async function updateJudo(req, res) {
   try {
     const { name } = req.params
@@ -81,11 +93,17 @@ export async function updateJudo(req, res) {
   }
 }
 
+
+// Delete technique based on name
 export async function deleteJudo(req, res) {
   try {
     const { name } = req.params
     const judo = await Judo.findOneAndDelete({ name: name }, req.body)
-    res.status(201).json(judo)
+    if (judo) {
+      return res.status(200).send("Technique removed!")
+    } else {
+      throw new Error("Technique not found")
+    }
   } catch (error) {
     console.error(error)
     res.status(500).json({ error: error.message })

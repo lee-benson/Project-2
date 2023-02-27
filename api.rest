@@ -68,3 +68,15 @@ Content-Type: application/json
 # @name DELETE_JUDO_EXAMPLE
 DELETE {{baseUrl}}/O-uchi-gari
 ###
+
+# @name REGISTER_USER
+POST {{baseUrl}}/register
+Content-Type: application/json
+
+{
+  "name": "Ryoji Kaji",
+  "DOB": "06/17/85",
+  "username": "007",
+  "email": "wateringMelons@tokyo3mail.com",
+  "password": "aReallyGoodPassword"
+}
