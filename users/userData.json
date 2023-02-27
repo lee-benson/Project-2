@@ -1,36 +1,36 @@
 [
   {
-    "name": "Rei Ayanami",
+    "name": "Rei-Ayanami",
     "DOB": "03/30/01",
     "username": "pilotUnit00",
     "email": "whoAmI@tokyo3mail.com",
     "password": "aReallyGoodPassword"
   },
   {
-    "name": "Shinji Ikari",
+    "name": "Shinji-Ikari",
     "DOB": "06/06/01",
     "username": "pilotUnit01",
     "email": "ongMyDadHatesMe@tokyo3mail.com",
     "password": "aReallyGoodPassword"
   },
   {
-    "name": "Asuka Langley Soryu",
+    "name": "Asuka-Langley-Soryu",
     "DOB": "12/04/01",
     "username": "pilotUnit02",
     "email": "antaBaka@tokyo3mail.com",
     "password": "aReallyGoodPassword"
   },
   {
-    "name": "Misato Katsuragi",
+    "name": "Misato-Katsuragi",
     "DOB": "12/08/86",
     "username": "babySitter",
     "email": "ongIHateMyDad@tokyo3mail.com",
     "password": "aReallyGoodPassword"
   },
   {
-    "name": "Ryoji Kaji",
+    "name": "Ryoji-Kaji",
     "DOB": "06/17/85",
-    "username": "007",
+    "username": "secretAgentMan",
     "email": "wateringMelons@tokyo3mail.com",
     "password": "aReallyGoodPassword"
   }

@@ -8,4 +8,3 @@ const judoSchema = new mongoose.Schema({
 })
 
 export default mongoose.model('Judo', judoSchema)
-

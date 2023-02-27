@@ -69,14 +69,38 @@ Content-Type: application/json
 DELETE {{baseUrl}}/O-uchi-gari
 ###
 
+
+
 # @name REGISTER_USER
 POST {{baseUrl}}/register
 Content-Type: application/json
 
 {
-  "name": "Ryoji Kaji",
+  "name": "Ryoji-Kaji",
   "DOB": "06/17/85",
-  "username": "007",
+  "username": "secretAgentMan",
   "email": "wateringMelons@tokyo3mail.com",
   "password": "aReallyGoodPassword"
 }
+###
+
+# @name AUTHENTICATING_USER
+POST {{baseUrl}}/login
+Content-Type: application/json
+
+{
+  "name": "Ryoji-Kaji",
+  "DOB": "06/17/85",
+  "username": "secretAgentMan",
+  "email": "wateringMelons@tokyo3mail.com",
+  "password": "aReallyGoodPassword"
+}
+###
+
+# @name GET_USERS
+GET {{baseUrl}}/users
+###
+
+# @name DELETE_USERS_EXAMPLE
+DELETE {{baseUrl}}/user/Ryoji-Kaji
+###

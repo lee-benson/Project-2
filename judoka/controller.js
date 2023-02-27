@@ -100,7 +100,7 @@ export async function deleteJudo(req, res) {
     const { name } = req.params
     const judo = await Judo.findOneAndDelete({ name: name }, req.body)
     if (judo) {
-      return res.status(200).send("Technique removed!")
+      return res.status(200).json("Technique removed!")
     } else {
       throw new Error("Technique not found")
     }
