@@ -38,7 +38,7 @@ GET {{baseUrl}}/name/{{name}}
 ###
 
 # @name SHOW_NAME_EXAMPLE
-GET {{baseUrl}}/name/Uchi-mata
+GET {{baseUrl}}/name/Ippon-seoi-nage
 ###
 
 # @name CREATE_JUDO
