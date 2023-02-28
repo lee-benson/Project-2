@@ -1,9 +1,19 @@
-// import router from '../judoka/router.js'
-// import * as controllers from '../judoka/controller.js'
+import router from '../judoka/router.js'
+import * as controllers from '../judoka/controller.js'
+import * as userControllers from '../users/userControllers.js'
 
-// const getJudo = () => {
-//   console.log('This works');
-//   return router.get('/', controllers.getJudo)
-// }
+const getJudoBtn = document.getElementById('getJudoBtn')
+const results = document.getElementById('results')
 
-// getJudo()
+getJudoBtn.addEventListener('click', async () => {
+  await fetch('/')
+    .then(res => res.json())
+    .then(data => {
+      results.innerHTML = ''
+      data.forEach(judo => {
+        const judoElement = document.createElement('div')
+        judoElement.innerHTML = `<h2>${judo.name}</h2><p>${judo.type}</p>`
+        results.appendChild(judoElement)
+      })
+    })
+})
